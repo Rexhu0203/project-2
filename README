@@ -1,0 +1,11 @@
+# Project 2: Air Pollution and Sickle Cell Disease
+
+This repository contains my work for Project 2.
+
+Project2_Ruiyang Hu.Rmd`: R Markdown file that generates the final report (Word document).
+AQ_2018.csv`, `AQ_2019.csv`, `AQ_2020.csv`: Daily air pollution measurements from 2018–2020.
+Project2_Ruiyang Hu.docx`: Knitted Word report.
+
+The goal of this project is to clean raw air pollution data (CO, PM2.5, O3) from RDU, 
+compute daily and monthly summaries, and create exploratory plots to explore temporal patterns 
+that may relate to sickle cell disease outcomes in Durham County.
